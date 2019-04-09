@@ -3,6 +3,7 @@ import 'bulma/css/bulma.min.css';
 import './resources/css/util.scss';
 import './resources/css/global.css';
 
+
 export default class Client {
   advertiseTimeout = 0;
 
