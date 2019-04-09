@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactPWAIcon from './resources/img/react-pwa.png';
 
+
+
 export default class Server {
   // eslint-disable-next-line
   apply(serverHandler) {
